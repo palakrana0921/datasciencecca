@@ -18,7 +18,7 @@ A Machine Learning web application that predicts the resale price of used cars b
 
 ### 💰 Prediction Result
 
-![Result](screenshots/predicted.png)
+![Result](screenshots/result.png)
 
 ---
 
