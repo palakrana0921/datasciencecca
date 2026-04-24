@@ -77,7 +77,7 @@ streamlit run app.py
 
 ## 📌 Author
 
-**Prashant Chandra**
+**Palak Rana**
 
 ---
 
